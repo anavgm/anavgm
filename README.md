@@ -1,5 +1,5 @@
 ## Hi there, this is Ana 👋
-I'm an Industrial Engineer in training, with competencies to perform functions focused on data analysis, continuous improvement and project management. Able to synthesize quantitative information and interact effectively with different work groups and clients. Proficient in analytical thinking and strategic planning.
+I'm an Industrial Engineer, with competencies to perform functions focused on data analysis, continuous improvement and project management. Able to synthesize quantitative information and interact effectively with different work groups and clients. Proficient in analytical thinking and strategic planning.
 
 <!--
 **anavgm/anavgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
